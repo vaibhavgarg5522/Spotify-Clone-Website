@@ -6,13 +6,6 @@ A sleek and responsive **Spotify Clone** built using **ReactJS**. This project m
 
 ---
 
-## 📸 Screenshots
-
-![Spotify Clone Screenshot](https://user-images.githubusercontent.com/your-screenshot-link.png)
-<!-- Replace with actual screenshot if available -->
-
----
-
 ## 🚀 Features
 
 - 🎧 Spotify-inspired design
