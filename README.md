@@ -5,6 +5,7 @@ A sleek and responsive **Spotify Clone** built using **ReactJS**. This project m
 🔗 **Live Demo:** [spotify-clone-website-tau.vercel.app](https://spotify-clone-website-tau.vercel.app/)
 
 ---
+![Screenshot (5)](https://github.com/user-attachments/assets/2cef5535-7c7e-451e-8843-f6aa61e2609a)
 
 ## 🚀 Features
 
